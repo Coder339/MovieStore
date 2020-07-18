@@ -1,0 +1,114 @@
+[
+    {
+        "name" : "Legend",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+        "price" : 220,
+        "Release" : "JUN 20,2020",
+        "rating" : 9.5,
+        "category": "action"
+    },
+    {
+        "name" : "300",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNTg5MzMwMV5BMl5BanBnXkFtZTcwMzA2NTIyMw@@._V1_SX1777_CR0,0,1777,937_AL_.jpg",
+        "price" : 200,
+        "Release" : "JUN 22,2020",
+        "rating" : 7.8,
+        "category": "thriller"
+    },
+    {
+        "name" : "strange",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+        "price" : 180,
+        "Release" : "JUN 28,2020",
+        "rating" : 8.2,
+        "category": "action"
+    },
+    {
+        "name" : "Justice L",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+        "price" : 250,
+        "Release" : "JUN 21,2020",
+        "rating" : 9.2,
+        "category": "action"
+    },
+    {
+        "name" : "Shooter",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+        "price" : 260,
+        "Release" : "JUN 18,2020",
+        "rating" : 6.7,
+        "category": "thriller"
+    },
+    {
+        "name" : "Grey",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+        "price" : 220,
+        "Release" : "JUN 17,2020",
+        "rating" : 6.9,
+        "category": "thriller"
+    },
+    {
+        "name" : "Thrones",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_SX300.jpg",
+        "price" : 190,
+        "Release" : "JUN 20,2020",
+        "rating" : 7.3,
+        "category": "action"
+    },
+    {
+        "name" : "EndGame",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+        "price" : 220,
+        "Release" : "JUN 14,2020",
+        "rating" : 9.8,
+        "category": "action"
+    },
+    {
+        "name" : "Intersteller",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+        "price" : 220,
+        "Release" : "JUN 14,2020",
+        "rating" : 9.5,
+        "category": "thriller"
+    },
+    {
+        "name" : "Avengers",
+        "image" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+        "price" : 290,
+        "Release" : "JUN 15,2020",
+        "rating" : 8.5,
+        "category": "thriller"
+    },
+    {
+        "name" : "AVATAR",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+        "price" : 280,
+        "Release" : "JUN 16,2020",
+        "rating" : 9.5,
+        "category": "thriller"
+    },
+    {
+        "name" : "Vikings",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BOTEzNzI3MDc0N15BMl5BanBnXkFtZTgwMzk1MzA5NzE@._V1_SX300.jpg",
+        "price" : 220,
+        "Release" : "JUN 17,2020",
+        "rating" : 7.6,
+        "category": "action"
+    },
+    {
+        "name" : "Gotham",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BMTY2MjMwNDE4OV5BMl5BanBnXkFtZTgwNjI1NjU0OTE@._V1_SX300.jpg",
+        "price" : 200,
+        "Release" : "JUN 20,2020",
+        "rating" : 7.4,
+        "category": "action"
+    },
+    {
+        "name" : "Power",
+        "image" : "http://ia.media-imdb.com/images/M/MV5BOTA4NTkzMjUzOF5BMl5BanBnXkFtZTgwNzg5ODkxOTE@._V1_SX300.jpg",
+        "price" : 170,
+        "Release" : "JUN 11,2020",
+        "rating" : 8.2,
+        "category": "action"
+    }
+]

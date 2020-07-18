@@ -1,7 +1,8 @@
 {
   "expo": {
+    "sdkVersion": "38.0.0",
     "name": "assignment",
-    "slug": "assignment",
+    "slug": "MovieStore",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,8 +17,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "com.leanvia.assignment",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
